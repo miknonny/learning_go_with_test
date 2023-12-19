@@ -1,3 +1,3 @@
-module hello
+module github.com/miknonny/learning_go_with_test
 
-go 1.20
+go 1.21.5
